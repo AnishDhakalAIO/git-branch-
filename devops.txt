@@ -5,3 +5,6 @@ this is devops file that i created in devops branches
 # ok team devops i got the file i am updating now 
 
 # what are the features taht you are looking for ?
+
+
+>>>>>>> feature that i am ,ooking for is murge conflict 
